@@ -6,8 +6,9 @@
 
 3. Installation of the app
 ```bash
-git clone -b main 
-cd node-file-server
+git clone -b main https://github.com/techcorpian/node-file-server.git
+cd node-file-server 
+npm install
 node server.js
 ```
 
